@@ -10,7 +10,7 @@ Some of scripts were made using examples of community online like [Data Hackers]
 
 ### Projects
 
-*[Tricks](https://github.com/raffoliveira/Data_science/tree/main/Tricks_Python)
+* [Tricks](https://github.com/raffoliveira/Data_science/tree/main/Tricks_Python)
 
 Some scripts to help when we run severals model in machine learning using os and joblib libraries: save different models in a specific directory, run different models in a specific directory, run multiple files using arguments parse in command line, looping in a directory with multiple files.
 
