@@ -21,6 +21,13 @@ Some of scripts were made using examples of community online like [Data Hackers]
   * Vaex
   * Keras
   * PyGame
+  
+  
+ * [WordCloud](https://github.com/raffoliveira/Data_science/tree/main/Word_clouds):
+ 
+ Creating a word cloud through text using library wordcloud. This library allow us to remove stop words (words with little meaning like pronouns, articles, numbers, verbs, etc... 
+ 
+ 
 
 ***
 
