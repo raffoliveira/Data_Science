@@ -10,6 +10,22 @@ Some of scripts were made using examples of community online like [Data Hackers]
 
 ### Projects
 
+* [Pingouin](https://github.com/raffoliveira/Data_science/tree/main/Pingouin_statistic)
+
+Pingouin is a statistical package in python based in Pandas and Numpy. It allows users to get many stats functions and plots like ANOVA, Circular statistics, Q-Q plot, Bland-Altman plot, Linear/logistic regression, and many others.
+
+* [Recover old photos](https://github.com/raffoliveira/Data_science/tree/main/Recover_old_photos)
+
+This a implementation of CVPR2020 to recover old photos and bring them to life. The original name of project is **Old Photo Restoration via Deep Latent Space Translation** and the official repository is this [link](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life). To run code is necessary Python>3.6, GPU's and CUDA installed.
+
+* [Scraping](https://github.com/raffoliveira/Data_science/tree/main/Scraping)
+
+There are many ways to scrap information from websites. In this script I use [selenium](https://www.selenium.dev/) framework to get information about interactive charts. I used selenium webdriver to help the access over web browser (google chrome) and get the data.
+
+* [Sweetviz](https://github.com/raffoliveira/Data_science/tree/main/Sweetviz)
+
+Library [sweetviz](https://pypi.org/project/sweetviz/) is dedicated to generate beautiful and simple visualizations using self-contained HTML application. It's so helpful during Exploratory Data Analysis (EDA).
+
 * [Tricks](https://github.com/raffoliveira/Data_science/tree/main/Tricks_Python)
 
 Some scripts to help when we run severals model in machine learning using os and joblib libraries: save different models in a specific directory, run different models in a specific directory, run multiple files using arguments parse in command line, looping in a directory with multiple files.
@@ -20,8 +36,7 @@ Introdutory script of Vaex, a library for lazy out-of-core dataframes (similar t
 
 * [Whatsapp](https://github.com/raffoliveira/Data_science/tree/main/Whatsapp)
 
-Analysis of personal group on Whatsapp using  emoji and wordcloud libraries. I used the data that we can extract from whatsapp application. The goal is understand the behaviour of people in this group. The insights measure the word frequency (which word is used the most), which day of the week and time has the most sendings, which person sent the most messages, the usage profile of words.
-  
+Analysis of personal group on Whatsapp using  emoji and wordcloud libraries. I used the data that we can extract from whatsapp application. The goal is understand the behaviour of people in this group. The insights measure the word frequency (which word is used the most), which day of the week and time has the most sendings, which person sent the most messages, the usage profile of words.  
   
 * [WordCloud](https://github.com/raffoliveira/Data_science/tree/main/Word_clouds):
  
@@ -30,6 +45,6 @@ Creating a word cloud through text using library wordcloud. This library allow u
  
 
 ***
-
+.
 Feel free to contribute.
 
