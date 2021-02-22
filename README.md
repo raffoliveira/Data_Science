@@ -10,9 +10,21 @@ Some of scripts were made using examples of community online like [Data Hackers]
 
 ### Projects
 
+* [Data Quarantine](https://github.com/raffoliveira/Data_science/tree/main/Data_quarantine)
+
+Classes of a short course of data science during quarantine in 2020
+
+* [Datasets](https://github.com/raffoliveira/Data_science/tree/main/Datasets)
+
+Folder of several datasets.
+
+* [Deep Learning](https://github.com/raffoliveira/Data_science/tree/main/Deep_learning) 
+
+Simple script of deep learning using keras.
+
 * [Games](https://github.com/raffoliveira/Data_science/tree/main/Games)
 
-
+Two games, 2D Snake and Dino Dinossaur developed using pygame library.
 
 * [Itau Processo Seletivo](https://github.com/raffoliveira/Data_science/tree/main/Itau_processo_seletivo)
 
