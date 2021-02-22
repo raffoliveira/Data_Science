@@ -10,6 +10,26 @@ Some of scripts were made using examples of community online like [Data Hackers]
 
 ### Projects
 
+* [Games](https://github.com/raffoliveira/Data_science/tree/main/Games)
+
+
+
+* [Itau Processo Seletivo](https://github.com/raffoliveira/Data_science/tree/main/Itau_processo_seletivo)
+
+This is part of Itau process involving some tasks about machine learning and models. There are some models developed like clustering, PCA, KMeans, models of classification (Logistic, Naives, KNN, Decision Tree, Random Forest, and Neural Network), Boosting (Gradient, XGBoost and ADA Boosting), and Regression (Linear, Decision Tree Regressor, L1 and L2 Regression, Elastic Net, and SVM)
+
+* [Loading big files](https://github.com/raffoliveira/Data_science/tree/main/Loading_large_excel_files)
+
+Some ways to load big files specially files in format excel. 
+
+* [PandasxDask](https://github.com/raffoliveira/Data_science/tree/main/PandasxDask)
+
+It's a simple comparative between Pandas and Dask about reading a big files.
+
+* [Performance Analysis](https://github.com/raffoliveira/Data_science/tree/main/Performance_analysis)
+
+Some script in google colab about System Performance Analysis, the last subject of my graduation in Computer Engineering. This analysis is about PCA (Principal Component Analysis), normalization, and clustering with K-Means.
+
 * [Pingouin](https://github.com/raffoliveira/Data_science/tree/main/Pingouin_statistic)
 
 Pingouin is a statistical package in python based in Pandas and Numpy. It allows users to get many stats functions and plots like ANOVA, Circular statistics, Q-Q plot, Bland-Altman plot, Linear/logistic regression, and many others.
