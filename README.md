@@ -16,7 +16,7 @@ Pingouin is a statistical package in python based in Pandas and Numpy. It allows
 
 * [Recover old photos](https://github.com/raffoliveira/Data_science/tree/main/Recover_old_photos)
 
-This a implementation of CVPR2020 to recover old photos and bring them to life. The original name of project is **Old Photo Restoration via Deep Latent Space Translation** and the official repository is this [link](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life). To run code is necessary Python>3.6, GPU's and CUDA installed.
+This a implementation of CVPR2020 to recover old photos and bring them to life. The original name of project is **Old Photo Restoration via Deep Latent Space Translation** and the official repository is [here](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life). To run code is necessary Python>3.6, GPU's and CUDA installed.
 
 * [Scraping](https://github.com/raffoliveira/Data_science/tree/main/Scraping)
 
